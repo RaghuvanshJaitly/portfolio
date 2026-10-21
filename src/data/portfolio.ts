@@ -6,7 +6,7 @@ export const portfolio = {
   links: {
     github: 'https://github.com/RaghuvanshJaitly',
     linkedin: 'https://www.linkedin.com/in/raghuvansh-jaitly-4202b1415/',
-    resume: '/resume-raghuvansh-jaitly.pdf',
+    resume: '/Resume_oct26.pdf',
   },
   projects: [
     {
