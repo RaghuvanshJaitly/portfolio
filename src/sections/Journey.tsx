@@ -1,7 +1,7 @@
 const stops = [
   ['01', 'Dalhousie University', 'Bachelor of Applied Computer Science · Final year · Halifax, Nova Scotia'],
   ['02', '3× Sexton Scholar', 'Recognition for academic performance. It reflects my progress, not a flawless start.'],
-  ['03', 'Learning by building', 'Python → data analysis → SQL → statistics → machine learning → ML systems'],
+  ['03', 'Learning by building', 'Python → data analysis → SQL → statistics → machine learning → APIs + testing + CI'],
   ['04', 'The direction', 'Becoming an engineer who understands both the model and the infrastructure that makes it reliable.'],
 ]
 export function Journey() { return <section id="journey" className="section journey reveal"><div className="section-tag">03 / Journey</div>
